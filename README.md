@@ -19,11 +19,12 @@ Throughout 8+ years working on both bare-metal/virtualization infrastructure and
 
 🏆 Certifications:
 
-- 🎖️ Certified Kubernetes Administrator (CKA)
+- 🎖️ [https://myup.work/thaovc-cka](https://myup.work/thaovc-cka) - Certified Kubernetes Administrator (CKA)
 
-- 🎖️ Certified Kubernetes Security Specialist (CKS)
+- 🎖️ [https://myup.work/thaovc-cks](https://myup.work/thaovc-cks) - Certified Kubernetes Security Specialist (CKS)
 
-- 🎖️ Certified Kubernetes Application Developer (CKAD)
+- 🎖️ [https://myup.work/thaovc-ckad](https://myup.work/thaovc-ckad) - Certified Kubernetes Application Developer (CKAD)
+
 
 🚀 Here are a few areas where I believe I can add value as a DevOps Engineer:
 

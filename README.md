@@ -7,8 +7,11 @@ Throughout 8+ years working on both bare-metal/virtualization infrastructure and
 **Experience**
 
 🏢 Company: Bao Viet Holdings [ baoviet.com.vn ]
+
 👩‍💼 Role: Infrastructure and Server Manager
+
 🏆 Achievements:
+
   - 🚀 80% reduction in lead time for changes
   - 🚀 75% reduction in change failure rate
   - 🚀 75% increase in deployment frequency
@@ -42,14 +45,16 @@ Throughout 8+ years working on both bare-metal/virtualization infrastructure and
 
 🔨 Selected Solutions:
 
-- Designed multi-site networks using Palo Alto hardware and Proxmox virtualization software
-- Provisioned an on-premises K3S cluster on Proxmox servers using Terraform
-- Set up a K8S cluster on AWS infrastructure to support a WebRTC/Mediasoup live streaming application
-- Implemented a production Jenkins master-slave cluster on Kubernetes infrastructure
-- Configured Elastic stack clusters on Kubernetes infrastructure to monitor Atlassian Jira and Confluence instances
-- Deployed an Ansible Semaphore server to host and run Ansible playbooks
-- Developed a backup and disaster recovery solution for Kubernetes clusters using Kasten K10
-- Created an end-to-end CI/CD pipeline using GitHub Actions, Vcluster, AWS ECR/EKS, and ArgoCD
+- 🌐 Designed multi-site networks using Palo Alto hardware and Proxmox virtualization software
+- 🚀 Provisioned an on-premises K3S cluster on Proxmox servers using Terraform
+- 🎥 Set up a K8S cluster on AWS infrastructure to support a WebRTC/Mediasoup live streaming application
+- 🔧 Implemented a production Jenkins master-slave cluster on Kubernetes infrastructure
+- 📈 Configured Elastic stack clusters on Kubernetes infrastructure to monitor Atlassian Jira and Confluence instances
+- 🤖 Deployed an Ansible Semaphore server to host and run Ansible playbooks
+- 💾 Developed a backup and disaster recovery solution for Kubernetes clusters using Kasten K10
+- 📦 Created an end-to-end CI/CD pipeline using GitHub Actions, Vcluster, AWS ECR/EKS, and ArgoCD
+- 🏭 AWS-based event-driven autoscaling solution, leveraging K8S' HPA and EKS, to scale Selenium browser nodes based on the number of requests in the session queue
+
 
 📫 Feel free to reach out to me at [myup.work/thaovc](myup.work/thaovc) if you'd like to chat about my skills and experience or to discuss potential opportunities.
 - 💬 You can also ask me about:

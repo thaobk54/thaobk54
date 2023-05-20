@@ -1,8 +1,8 @@
 # 👋 I'm Thao Vu
 
-## 🔥 **DevOps Engineer | ☁️ Cloud Architect**
+🔥 **DevOps Engineer | ☁️ Cloud Architect**
 
-I am a DevOps Engineer and Cloud Architect with over 8 years of experience working on both bare-metal/virtualization infrastructure and public cloud providers like AWS, Google Cloud, and Digital Ocean. I am proficient in various modern DevOps tools and technologies.
+Throughout 8+ years working on both bare-metal/virtualization infrastructure and public cloud providers (AWS, Google Cloud, Digital Ocean....), I'm familiar and proficient with most of the modern DevOps tools and technology.
 
 **Experience**
 

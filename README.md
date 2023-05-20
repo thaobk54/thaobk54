@@ -14,35 +14,33 @@ Throughout 8+ years working on both bare-metal/virtualization infrastructure and
   - 🚀 75% increase in deployment frequency
   - 🚀 65% reduction in the mean time to recovery
 
-**Certifications**
+🏆 Certifications:
 
-🎖️ Certified Kubernetes Administrator (CKA)
+- 🎖️ Certified Kubernetes Administrator (CKA)
 
-🎖️ Certified Kubernetes Security Specialist (CKS)
+- 🎖️ Certified Kubernetes Security Specialist (CKS)
 
-🎖️ Certified Kubernetes Application Developer (CKAD)
+- 🎖️ Certified Kubernetes Application Developer (CKAD)
 
-**Value Proposition**
+🚀 Here are a few areas where I believe I can add value as a DevOps Engineer:
 
-Here are a few ways I believe I can add value to your team:
+- ✅ Optimizing test automation, trunk-based development, and working in small batches
 
-✅ Optimizing test automation, trunk-based development, and working in small batches
+- ✅ Consciously tracking and reporting on change failure rates
 
-✅ Consciously tracking and reporting on change failure rates
+- ✅ Implementing an automated deployment pipeline that incorporates automated testing and feedback mechanisms
 
-✅ Implementing an automated deployment pipeline that incorporates automated testing and feedback mechanisms
+- ✅ Continuously monitoring system health and alerting operations staff in the event of a failure
 
-✅ Continuously monitoring system health and alerting operations staff in the event of a failure
+- ✅ Equipping operations staff with the necessary processes, tools, and permissions to resolve incidents
 
-✅ Equipping operations staff with the necessary processes, tools, and permissions to resolve incidents
+🧰 Key Projects:
 
-**Key Projects**
+- 🌍 [ K3S in Proxmox ](l.aandd.io/k3s)
 
-🌍 [ K3S in Proxmox ](l.aandd.io/k3s)
+- 🌍 [ Openshift in Proxmox ](l.aandd.io/openshift)
 
-🌍 [ Openshift in Proxmox ](l.aandd.io/openshift)
-
-**Selected Solutions**
+🔨 Selected Solutions:
 
 - Designed multi-site networks using Palo Alto hardware and Proxmox virtualization software
 - Provisioned an on-premises K3S cluster on Proxmox servers using Terraform

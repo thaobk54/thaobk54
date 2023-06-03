@@ -25,7 +25,7 @@ Throughout 8+ years working on both bare-metal/virtualization infrastructure and
 
 - 🎖️ [https://myup.work/thaovc-ckad](https://myup.work/thaovc-ckad) - Certified Kubernetes Application Developer (CKAD)
 
-
+- 🎖️ https://www.credly.com/badges/0b29647f-da73-4acf-98c1-537b6b6c99b1/public_url - AWS Certified DevOps Engineer – Professional
 🚀 Here are a few areas where I believe I can add value as a DevOps Engineer:
 
 - ✅ Optimizing test automation, trunk-based development, and working in small batches
